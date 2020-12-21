@@ -13,6 +13,6 @@ Building a series/moviez API Node.js(Express) and deploying it to Amazon AWS EC2
 
 #### Run
 
-1. Clone
+1. git clone
 2. cd /
 3. run docker build .
